@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Simple iptables firewall for most Unix-like systems.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+    - networking
+    - system
